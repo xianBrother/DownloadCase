@@ -1,3 +1,3 @@
 # DownloadCase
-download
-*A simple download example that includes starting, pausing and canceling Downloads*
+DOWNLOAD CASE<br>
+*A simple download example, including start, pause and cancel*
